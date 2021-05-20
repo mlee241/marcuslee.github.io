@@ -19,13 +19,13 @@ In terms of differences, I would have to say the data scientist role is more com
 
 Well, I don’t really see myself as a Statistician because I don’t consider myself a statistics expert. In terms of the data science field, I would not consider myself ready for these data scientist positions because of all the technical knowledge I need and I need experience to understand the business needs in the data scientist roles/product market fit.
 
-References:
+# References:
 
-..* https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f
+[https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f](https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f)
 
-..* https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/
+[https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/](https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/)
 
-..* https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article
+[https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article](https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article)
 
-..* https://mixpanel.com/blog/this-is-the-difference-between-statistics-and-data-science/
+[https://mixpanel.com/blog/this-is-the-difference-between-statistics-and-data-science/](https://mixpanel.com/blog/this-is-the-difference-between-statistics-and-data-science/)
 
