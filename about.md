@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
+Hello. My name is Marcus Lee. I’ve created this website for my ST 558 course. I am currently interning as a Back-End Software Engineer.
 
-### More Information
+### Technologies I know:
 
-A place to include any other types of information that you'd like to include about yourself.
+. Django, Docker, AWS Elastic Beanstalk, Python, SAS, R, STATA
 
 ### Contact me
 
