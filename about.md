@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello. My name is Marcus Lee. I’ve created this website for my ST 558 course. I am currently interning as a Back-End Software Engineer.
+Hello. My name is Marcus Lee. I’ve created this website for my ST 558(Data Science) course. So if the blog posts do seem a bit off, it is because the blog posts are part of my Data Science(ST 558) assignments.
 
 ### Technologies I know:
 
